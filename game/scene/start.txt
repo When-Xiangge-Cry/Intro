@@ -1,0 +1,15 @@
+intro:你好|欢迎游玩《祥阁鸣泣之时》;
+intro:请注意以下几点内容:|1. 本游戏类型为恐怖游戏，不适者务必关闭|2. 本游戏画风简略清奇，不喜勿喷|3. 游戏剧情纯属虚构，请勿当真，与现实中人物、集体无关;
+intro:本游戏由|祥阁鸣泣之时 制作开发组 / XXX村民 制作;
+
+changeFigure:nobgonlylogo1.png -next -id=intrologo;
+setAnimation:enter-from-bottom -target=intrologo -next;
+bgm:OP1.wav;
+changeBg:nightxg.png;
+unlockBgm:OP1.wav -name=祥阁鸣泣之时 OP1;
+bgm:none;
+changeFigure: -next -id=intrologo;
+changeBg:;
+changeBg: -next;
+
+callScene:intro1.txt

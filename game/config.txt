@@ -1,0 +1,5 @@
+Game_name:祥阁鸣泣之时·Intro;
+Game_key:When-Xiangge-Cry-Intro;
+Package_name:com.whenxianggecry.intro;
+Title_bgm:OP1.wav;
+Title_img:nightxg.png;

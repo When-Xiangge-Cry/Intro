@@ -1,0 +1,26 @@
+intro:2003年  8月  XX日，|祥阁建校。;
+changeBg:2003/03校长激情演讲-all.0005.jpg -next;
+校长:各位新入职的教师 你们好。;
+校长:......我们大庆市祥阁学校作为我市第一所九年一贯制学校......;
+changeBg:2003/03校长激情演讲-1.0001.jpg -next;
+校长:......我校教学设备同样齐全......;
+changeBg:2003/03校长激情演讲-2.0002.jpg -next;
+校长:......希望各位人民教师们能共同营造一个良好的校园环境......;
+changeBg:2003/03校长激情演讲-3.0003.jpg -next;
+校长:......我们要履行好教书育人这一职责......;
+changeBg:2003/03校长激情演讲-all.0006.jpg -next;
+校长:...做好一位祥阁人......;
+setTextbox:hide;
+changeBg:;
+
+intro:校外，|湖滨大街，|一号门对面。;
+changeBg:03childlooktosky1.0001.jpg -next;
+changeFigure:eyesclosetoopen1.png;
+changeFigure:eyesclosetoopen2.png;
+changeFigure:eyesclosetoopen3.png;
+changeBg:2003/liulangchildfeelshot.0004.jpg;
+changeBg:2003/liulangchildfeelshot.0005.jpg;
+changeBg:2003/liulangchildfeelshot.0006.jpg;
+changeBg:2003/liulangchildfeelshot.0007.jpg;
+changeBg:2003/liulangchildfeelshot.0008.jpg;
+changeBg:2003/liulangchildfeelshot.0009.jpg;
