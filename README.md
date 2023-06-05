@@ -5,7 +5,7 @@
 
 test: https://when-xiangge-cry.github.io/Intro/
 
-#下载 | Download
+# 下载 | Download
 
 Download When Xiangge Cry:Intro https://github.com/When-Xiangge-Cry/Intro/releases
 
