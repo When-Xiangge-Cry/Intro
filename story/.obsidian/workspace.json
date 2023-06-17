@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "00a5dd2467b040fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf6ac2c60bed6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9339fcebba7a326",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "viewState": {
+                  "x": 217.8359990285622,
+                  "y": -15.752734548478259,
+                  "zoom": -0.3333333333333334
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ad13f065fb81315",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ee1e939ce33db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab6d2daf0ff6a39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcfafcf00394566d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a413ccaa5288989",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.51103591918945
+  },
+  "right": {
+    "id": "e9128309995b0c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8866e236507e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a055a69179117e5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "702e95c9e5ec7358",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f85c59e2fb9b8fe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8130fa3b03a7442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d9339fcebba7a326",
+  "lastOpenFiles": [
+    "已定剧情",
+    "素材库",
+    "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
+  ]
+}
