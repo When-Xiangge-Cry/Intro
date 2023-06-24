@@ -1,25 +1,25 @@
 {
 	"nodes":[
-		{"type":"text","text":"祥阁鸣泣之时·Intro","id":"7445ea4484324f6e","x":-129,"y":-195,"width":250,"height":60},
 		{"id":"9c6ebfea83391e5d","x":-129,"y":-60,"width":250,"height":60,"type":"text","text":"2003年，8月，祥阁建校"},
-		{"id":"bc8099e98f4efde7","x":-129,"y":100,"width":250,"height":60,"type":"text","text":"2013年，"},
 		{"id":"7e417e22095d9289","x":365,"y":-40,"width":230,"height":80,"type":"text","text":"校长对第一批入职教师讲话（包括柏姐和音乐老师）"},
 		{"id":"8d80e633643c2570","x":345,"y":-165,"width":215,"height":60,"type":"text","text":"流浪儿童犯病致幻"},
 		{"id":"319d57134cf1d36a","x":680,"y":-380,"width":340,"height":100,"type":"text","text":"流浪儿童回想起曾经校长演讲时所在地的工地，自己的好朋友差点因意外被铁块砸死"},
 		{"id":"e5456474a9915fdd","x":680,"y":-155,"width":210,"height":50,"type":"text","text":"走向马路，被车创死"},
 		{"id":"d1e6426253c20699","x":1020,"y":-255,"width":250,"height":60,"type":"text","text":"死前想到曾在别的学校窗外望到“知识改变命运”"},
 		{"id":"5912c2d482671816","x":-560,"y":-155,"width":326,"height":75,"type":"text","text":"天气炎热，正处中午前后~~(午后2点)~~\n"},
-		{"id":"afcf0c477fc5f1e0","x":-640,"y":-60,"width":346,"height":60,"type":"text","text":"祥阁学校是大庆市第一所九年一贯制学校"}
+		{"id":"afcf0c477fc5f1e0","x":-640,"y":-60,"width":346,"height":60,"type":"text","text":"祥阁学校是大庆市第一所九年一贯制学校"},
+		{"type":"text","text":"# 祥阁鸣泣之时·Intro","id":"7445ea4484324f6e","x":-168,"y":-400,"width":329,"height":70,"color":"#ad5050"},
+		{"id":"bc8099e98f4efde7","x":-129,"y":140,"width":250,"height":50,"type":"text","text":"2013年，"}
 	],
 	"edges":[
 		{"id":"e807f8cdb6237461","fromNode":"7445ea4484324f6e","fromSide":"bottom","toNode":"9c6ebfea83391e5d","toSide":"top"},
-		{"id":"4beefbd3ffc5b774","fromNode":"9c6ebfea83391e5d","fromSide":"bottom","toNode":"bc8099e98f4efde7","toSide":"top"},
 		{"id":"bbf489f5cbd45e5a","fromNode":"9c6ebfea83391e5d","fromSide":"right","toNode":"8d80e633643c2570","toSide":"left"},
 		{"id":"f10d0ccd6973f97a","fromNode":"9c6ebfea83391e5d","fromSide":"right","toNode":"7e417e22095d9289","toSide":"left"},
 		{"id":"d195f3da4af831b5","fromNode":"8d80e633643c2570","fromSide":"right","toNode":"319d57134cf1d36a","toSide":"left","fromEnd":"arrow","label":"因而致幻 "},
 		{"id":"5c8ec8723930f4d6","fromNode":"319d57134cf1d36a","fromSide":"bottom","toNode":"e5456474a9915fdd","toSide":"top","label":"犯病"},
 		{"id":"2a3dcf67f5299ab4","fromNode":"e5456474a9915fdd","fromSide":"right","toNode":"d1e6426253c20699","toSide":"left"},
 		{"id":"68e6544b722aed7a","fromNode":"9c6ebfea83391e5d","fromSide":"left","toNode":"5912c2d482671816","toSide":"right"},
-		{"id":"a1ffb507d1eaff19","fromNode":"9c6ebfea83391e5d","fromSide":"left","toNode":"afcf0c477fc5f1e0","toSide":"right"}
+		{"id":"a1ffb507d1eaff19","fromNode":"9c6ebfea83391e5d","fromSide":"left","toNode":"afcf0c477fc5f1e0","toSide":"right"},
+		{"id":"12c16c329795886e","fromNode":"9c6ebfea83391e5d","fromSide":"bottom","toNode":"bc8099e98f4efde7","toSide":"top"}
 	]
 }
