@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9339fcebba7a326",
+            "id": "411268cfa7f9a8da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "素材库/第一章.md",
-                "mode": "source",
-                "source": false
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "viewState": {
+                  "x": 547.3288688753266,
+                  "y": 1666.0334204383616,
+                  "zoom": -0.9871692506655037
+                }
+              }
+            }
+          },
+          {
+            "id": "0fdf0e686f1ac6d0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban看板.md"
               }
             }
           }
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "素材库/第一章.md"
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
               }
             }
           }
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "素材库/第一章.md",
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "素材库/第一章.md",
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,11 +169,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f85c59e2fb9b8fe9",
+  "active": "411268cfa7f9a8da",
   "lastOpenFiles": [
-    "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
-    "素材库/第一章.md",
     "Kanban看板.md",
+    "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "应付祥鸣Ⅰ的/想法.md",
+    "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
+    "素材库/2013年/1-周五五点，放学离校.md",
+    "素材库/2013年/2-睡前短信，邀请翻墙.md",
+    "素材库/2013年",
+    "素材库/2003年",
+    "应付祥鸣Ⅰ的",
     "Excalidraw/Drawing 2023-06-27 19.00.21.excalidraw.md",
     "Excalidraw",
     "地生/暂用.md",
