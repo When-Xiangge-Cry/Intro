@@ -11,14 +11,11 @@
             "id": "d9339fcebba7a326",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
-                "viewState": {
-                  "x": 28.87494049215522,
-                  "y": 47.87706163135077,
-                  "zoom": -0.2585122674712896
-                }
+                "file": "素材库/第一章.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "file": "素材库/第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "file": "素材库/第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
+                "file": "素材库/第一章.md"
               }
             }
           }
@@ -146,16 +143,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "d9339fcebba7a326",
   "lastOpenFiles": [
+    "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "素材库/第一章.md",
     "Kanban看板.md",
+    "Excalidraw/Drawing 2023-06-27 19.00.21.excalidraw.md",
+    "Excalidraw",
     "地生/暂用.md",
     "Pasted image 20230620211959.png",
     "地生",
-    "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
     "已定剧情",
     "素材库"
   ]

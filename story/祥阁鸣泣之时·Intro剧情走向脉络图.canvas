@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"id":"9c6ebfea83391e5d","x":-129,"y":-60,"width":250,"height":60,"type":"text","text":"2003年，8月，祥阁建校"},
-		{"id":"7e417e22095d9289","x":365,"y":-40,"width":230,"height":80,"type":"text","text":"校长对第一批入职教师讲话（包括柏姐和音乐老师）"},
-		{"id":"8d80e633643c2570","x":345,"y":-165,"width":215,"height":60,"type":"text","text":"流浪儿童犯病致幻"},
-		{"id":"319d57134cf1d36a","x":680,"y":-380,"width":340,"height":100,"type":"text","text":"流浪儿童回想起曾经校长演讲时所在地的工地，自己的好朋友差点因意外被铁块砸死"},
-		{"id":"e5456474a9915fdd","x":680,"y":-155,"width":210,"height":50,"type":"text","text":"走向马路，被车创死"},
-		{"id":"d1e6426253c20699","x":1020,"y":-255,"width":250,"height":60,"type":"text","text":"死前想到曾在别的学校窗外望到“知识改变命运”"},
-		{"id":"5912c2d482671816","x":-560,"y":-155,"width":326,"height":75,"type":"text","text":"天气炎热，正处中午前后~~(午后2点)~~\n"},
-		{"id":"afcf0c477fc5f1e0","x":-640,"y":-60,"width":346,"height":60,"type":"text","text":"祥阁学校是大庆市第一所九年一贯制学校"},
+		{"type":"text","text":"2003年，8月，祥阁建校","id":"9c6ebfea83391e5d","x":-129,"y":-60,"width":250,"height":60},
+		{"type":"text","text":"校长对第一批入职教师讲话（包括柏姐和音乐老师）","id":"7e417e22095d9289","x":365,"y":-40,"width":230,"height":80},
+		{"type":"text","text":"流浪儿童犯病致幻","id":"8d80e633643c2570","x":345,"y":-165,"width":215,"height":60},
+		{"type":"text","text":"流浪儿童回想起曾经校长演讲时所在地的工地，自己的好朋友差点因意外被铁块砸死","id":"319d57134cf1d36a","x":680,"y":-380,"width":340,"height":100},
+		{"type":"text","text":"走向马路，被车创死","id":"e5456474a9915fdd","x":680,"y":-155,"width":210,"height":50},
+		{"type":"text","text":"死前想到曾在别的学校窗外望到“知识改变命运”","id":"d1e6426253c20699","x":1020,"y":-255,"width":250,"height":60},
+		{"type":"text","text":"天气炎热，正处中午前后~~(午后2点)~~\n","id":"5912c2d482671816","x":-560,"y":-155,"width":326,"height":75},
+		{"type":"text","text":"祥阁学校是大庆市第一所九年一贯制学校","id":"afcf0c477fc5f1e0","x":-640,"y":-60,"width":346,"height":60},
 		{"type":"text","text":"# 祥阁鸣泣之时·Intro","id":"7445ea4484324f6e","x":-168,"y":-400,"width":329,"height":70,"color":"#ad5050"},
-		{"id":"bc8099e98f4efde7","x":-129,"y":140,"width":250,"height":50,"type":"text","text":"2013年，"}
+		{"type":"text","text":"2013年，","id":"bc8099e98f4efde7","x":-129,"y":140,"width":250,"height":50},
+		{"type":"text","text":"# 大纲","id":"08b5e422eeeaa943","x":-760,"y":-395,"width":200,"height":60,"color":"#ad5050"},
+		{"id":"f2af3bbf18023277","x":-800,"y":-574,"width":244,"height":74,"type":"text","text":"# 需要注意点"}
 	],
 	"edges":[
 		{"id":"e807f8cdb6237461","fromNode":"7445ea4484324f6e","fromSide":"bottom","toNode":"9c6ebfea83391e5d","toSide":"top"},
@@ -20,6 +22,8 @@
 		{"id":"2a3dcf67f5299ab4","fromNode":"e5456474a9915fdd","fromSide":"right","toNode":"d1e6426253c20699","toSide":"left"},
 		{"id":"68e6544b722aed7a","fromNode":"9c6ebfea83391e5d","fromSide":"left","toNode":"5912c2d482671816","toSide":"right"},
 		{"id":"a1ffb507d1eaff19","fromNode":"9c6ebfea83391e5d","fromSide":"left","toNode":"afcf0c477fc5f1e0","toSide":"right"},
-		{"id":"12c16c329795886e","fromNode":"9c6ebfea83391e5d","fromSide":"bottom","toNode":"bc8099e98f4efde7","toSide":"top"}
+		{"id":"12c16c329795886e","fromNode":"9c6ebfea83391e5d","fromSide":"bottom","toNode":"bc8099e98f4efde7","toSide":"top"},
+		{"id":"38e68a8c044106b1","fromNode":"7445ea4484324f6e","fromSide":"left","toNode":"08b5e422eeeaa943","toSide":"right"},
+		{"id":"6efd1f3d69a67fdd","fromNode":"7445ea4484324f6e","fromSide":"left","toNode":"f2af3bbf18023277","toSide":"right"}
 	]
 }
