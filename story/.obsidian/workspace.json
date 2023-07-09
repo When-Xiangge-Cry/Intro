@@ -31,6 +31,7 @@
       {
         "id": "09ee1e939ce33db4",
         "type": "tabs",
+        "dimension": 47.983014861995755,
         "children": [
           {
             "id": "aab6d2daf0ff6a39",
@@ -63,6 +64,23 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1722b03cb501afd",
+        "type": "tabs",
+        "dimension": 52.016985138004245,
+        "children": [
+          {
+            "id": "b8130fa3b03a7442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "素材库/第一章.md"
+              }
             }
           }
         ]
@@ -118,22 +136,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "b8130fa3b03a7442",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "素材库/第一章.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 289.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,7 +156,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d9339fcebba7a326",
+  "active": "f85c59e2fb9b8fe9",
   "lastOpenFiles": [
     "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
     "素材库/第一章.md",
