@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3bf6ac2c60bed6a5",
+        "id": "2f639667404b7674",
         "type": "tabs",
         "children": [
           {
@@ -15,20 +15,22 @@
               "state": {
                 "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
                 "viewState": {
-                  "x": 5908.477824066369,
-                  "y": 101.05239529323927,
+                  "x": 3455.994002915052,
+                  "y": 896.5067032987844,
                   "zoom": -2.3333333333333326
                 }
               }
             }
           },
           {
-            "id": "0fdf0e686f1ac6d0",
+            "id": "a4750f0deb320872",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban看板.md"
+                "file": "素材库/2013年/1-周五五点，放学离校.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.51103591918945
+    "width": 283.51103591918945
   },
   "right": {
     "id": "e9128309995b0c4d",
@@ -171,11 +173,11 @@
   },
   "active": "411268cfa7f9a8da",
   "lastOpenFiles": [
-    "Kanban看板.md",
+    "素材库/2013年/1-周五五点，放学离校.md",
     "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "Kanban看板.md",
     "应付祥鸣Ⅰ的/想法.md",
     "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
-    "素材库/2013年/1-周五五点，放学离校.md",
     "素材库/2013年/2-睡前短信，邀请翻墙.md",
     "素材库/2013年",
     "素材库/2003年",
