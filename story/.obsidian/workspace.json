@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f639667404b7674",
+        "id": "6b9b1df672888f92",
         "type": "tabs",
         "children": [
           {
-            "id": "411268cfa7f9a8da",
+            "id": "8e9d2ccd3aea5ddd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
                 "viewState": {
-                  "x": 3455.994002915052,
-                  "y": 896.5067032987844,
-                  "zoom": -2.3333333333333326
+                  "x": 9835.262553117012,
+                  "y": 1072.5027732875014,
+                  "zoom": -1.3333333333333328
                 }
-              }
-            }
-          },
-          {
-            "id": "a4750f0deb320872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "素材库/2013年/1-周五五点，放学离校.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -46,7 +34,7 @@
       {
         "id": "09ee1e939ce33db4",
         "type": "tabs",
-        "dimension": 47.983014861995755,
+        "dimension": 54.45859872611465,
         "children": [
           {
             "id": "aab6d2daf0ff6a39",
@@ -80,14 +68,7 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "c1722b03cb501afd",
-        "type": "tabs",
-        "dimension": 52.016985138004245,
-        "children": [
+          },
           {
             "id": "b8130fa3b03a7442",
             "type": "leaf",
@@ -95,6 +76,25 @@
               "type": "outline",
               "state": {
                 "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32da4286aa9f6b73",
+        "type": "tabs",
+        "dimension": 45.54140127388535,
+        "children": [
+          {
+            "id": "cc9e29b56b39b130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "垃圾箱-cache/临时记录变量.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +170,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "411268cfa7f9a8da",
+  "active": "8e9d2ccd3aea5ddd",
   "lastOpenFiles": [
-    "素材库/2013年/1-周五五点，放学离校.md",
+    "垃圾箱-cache/临时记录变量.md",
     "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "垃圾箱-cache",
+    "素材库/2013年/1-周五五点，放学离校.md",
+    "祥阁鸣泣之时 OP1（remixdemo1）.wav",
     "Kanban看板.md",
     "应付祥鸣Ⅰ的/想法.md",
     "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
