@@ -15,14 +15,30 @@
               "state": {
                 "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
                 "viewState": {
-                  "x": 9835.262553117012,
-                  "y": 1072.5027732875014,
-                  "zoom": -1.3333333333333328
+                  "x": 217.46806573066627,
+                  "y": 88.89073515805491,
+                  "zoom": -0.3333333333333334
+                }
+              }
+            }
+          },
+          {
+            "id": "79eb7b408ee1c086",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "viewState": {
+                  "x": 8112.097580204975,
+                  "y": 1365.6564516666995,
+                  "zoom": -1.9999999999999996
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +187,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8e9d2ccd3aea5ddd",
+  "active": "79eb7b408ee1c086",
   "lastOpenFiles": [
+    "祥阁鸣泣之时 OP1（remixdemo1）.wav",
+    "Excalidraw/瞎画.excalidraw.md",
+    "Excalidraw/2013年日历-windows.png",
+    "Excalidraw/Drawing 2023-07-25 05.17.35.excalidraw.md",
     "垃圾箱-cache/临时记录变量.md",
     "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "Excalidraw",
     "垃圾箱-cache",
     "素材库/2013年/1-周五五点，放学离校.md",
-    "祥阁鸣泣之时 OP1（remixdemo1）.wav",
     "Kanban看板.md",
     "应付祥鸣Ⅰ的/想法.md",
     "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
@@ -185,7 +206,6 @@
     "素材库/2003年",
     "应付祥鸣Ⅰ的",
     "Excalidraw/Drawing 2023-06-27 19.00.21.excalidraw.md",
-    "Excalidraw",
     "地生/暂用.md",
     "Pasted image 20230620211959.png",
     "地生",
