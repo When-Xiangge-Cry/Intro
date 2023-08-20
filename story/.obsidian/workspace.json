@@ -11,14 +11,11 @@
             "id": "8e9d2ccd3aea5ddd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
-                "viewState": {
-                  "x": 8965.147145592933,
-                  "y": 1699.3761896500973,
-                  "zoom": -2.138888753255209
-                }
+                "file": "素材库/2013年/2-睡前短信，邀请翻墙.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas"
+                "file": "素材库/2013年/2-睡前短信，邀请翻墙.md"
               }
             }
           }
@@ -118,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "file": "素材库/2013年/2-睡前短信，邀请翻墙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+                "file": "素材库/2013年/2-睡前短信，邀请翻墙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +168,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8e9d2ccd3aea5ddd",
+  "active": "aab6d2daf0ff6a39",
   "lastOpenFiles": [
+    "应付祥鸣Ⅰ的/想法.md",
     "Excalidraw/2013年日历-windows.png",
-    "Excalidraw/瞎画.excalidraw.md",
+    "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
     "祥阁鸣泣之时·Intro剧情走向脉络图.canvas",
+    "Excalidraw/瞎画.excalidraw.md",
     "祥阁鸣泣之时 OP1（remixdemo1）.wav",
     "Excalidraw/Drawing 2023-07-25 05.17.35.excalidraw.md",
     "垃圾箱-cache/临时记录变量.md",
@@ -183,8 +182,6 @@
     "垃圾箱-cache",
     "素材库/2013年/1-周五五点，放学离校.md",
     "Kanban看板.md",
-    "应付祥鸣Ⅰ的/想法.md",
-    "素材库/2003年/8月-祥阁建校，流浪儿童死亡.md",
     "素材库/2013年/2-睡前短信，邀请翻墙.md",
     "素材库/2013年",
     "素材库/2003年",
